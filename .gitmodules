@@ -1,4 +1,4 @@
 [submodule "fdroid"]
 	path = fdroid
-	url = https://github.com/SLD-GCB/f-droid-repo.git
+	url = https://github.com/SLD-GCB/SLD-GCB_f-droid.git
 	branch = gh-pages
