@@ -1,0 +1,18 @@
+开始处理 APK 目录
+处理URL文件: dsn.txt
+下载URL: https://github.com/SLD-GCB/DSN-android-windows/releases/download/DSN-v6.40/DSN-android-6.40.apk
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+100 11.8M  100 11.8M    0     0  21.3M      0 --:--:-- --:--:-- --:--:-- 21.3M
+下载成功: DSN-android-6.40.apk
+删除URL文件: dsn.txt
+处理URL文件: honglusi.txt
+下载URL: https://github.com/SLD-GCB/HLS-AI-Android/releases/download/HLS-AI-Android-v0.6.1/honglusi-release-0.6.1.apk
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+ 58 17.1M   58 10.0M    0     0  14.3M      0  0:00:01 --:--:--  0:00:01 14.3M100 17.1M  100 17.1M    0     0  15.8M      0  0:00:01  0:00:01 --:--:-- 18.5M
+下载成功: honglusi-release-0.6.1.apk
+删除URL文件: honglusi.txt
+完成处理，共处理 2 个文件
