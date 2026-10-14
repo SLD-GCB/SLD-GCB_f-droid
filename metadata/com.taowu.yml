@@ -1,9 +1,26 @@
-AuthorName: ''
+Name: 梼杌
 Categories:
-- repo
+- Internet
+- Multimedia
+License: AGPL-3.0-only
+AuthorName: SLD-GCB
+AuthorEmail: hdhdkc54748448@gmail.com
+WebSite: https://github.com/SLD-GCB/Taowu-spider-Android
+SourceCode: https://github.com/SLD-GCB/Taowu-spider-Android
+IssueTracker: https://github.com/SLD-GCB/Taowu-spider-Android/issues
+Summary: 网页视频抓取与下载
+Description: |
+  一个安卓上的网页视频 / 动漫抓取与下载工具。内置浏览器走到要抓的页面,点一下按钮,
+  自动解析出 m3u8 / mp4 / DASH 流并下载成能播的本地文件。本项目是 PC 版梼杌 v2.1
+  (Python + Qt)的安卓移植版。
+
+  主要功能:
+  * HLS / DASH 下载:分片并发,支持 AES-128 / AES-256 / AES-256-CTR / cbcs 解密、
+    DASH CENC / ClearKey。
+  * 直链下载:Range 多连接加速 + 断点续传。
+  * 在线试播:下载前可先试播,下载后在「内容」页离线播放,含进度、选集、横屏。
+  * 整部抓取:批量下载整部作品。
+  * 网页探测:浏览器旁听请求 + JS 注入识别媒体流。
+AutoUpdateMode: None
+UpdateCheckMode: None
 CurrentVersionCode: 2147483647
-IssueTracker: ''
-Name: "\u68BC\u674C"
-SourceCode: ''
-Summary: ''
-WebSite: ''

@@ -1,0 +1,22 @@
+Name: 鸿胪寺
+Categories:
+- Internet
+License: AGPL-3.0-only
+AuthorName: SLD-GCB
+AuthorEmail: hdhdkc54748448@gmail.com
+WebSite: https://github.com/SLD-GCB/HLS-AI-Android
+SourceCode: https://github.com/SLD-GCB/HLS-AI-Android
+IssueTracker: https://github.com/SLD-GCB/HLS-AI-Android/issues
+Summary: 本地优先的 AI 角色扮演聊天
+Description: |
+  本地优先的 AI 角色扮演聊天应用(Android)。所有角色、对话、模型都放在手机本地,
+  不经过任何服务器。
+
+  它是 PC 端桌面应用「ai酒馆」(Python + PySide6)的安卓移植,功能对齐,并针对
+  手机做了适配。名字取自古代接待宾客的官署鸿胪寺 —— 意思是「你的客人都住在这儿,
+  不用出门」。
+
+  PC 端源码:https://github.com/SLD-GCB/HLS-ai-orginal-code
+AutoUpdateMode: None
+UpdateCheckMode: None
+CurrentVersionCode: 2147483647

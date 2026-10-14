@@ -1,0 +1,27 @@
+Name: 大司农
+Categories:
+- Connectivity
+License: AGPL-3.0-only
+AuthorName: SLD-GCB
+AuthorEmail: hdhdkc54748448@gmail.com
+WebSite: https://github.com/SLD-GCB/DSN-android-windows
+SourceCode: https://github.com/SLD-GCB/DSN-android-windows
+IssueTracker: https://github.com/SLD-GCB/DSN-android-windows/issues
+Summary: 局域网文件互传与聊天
+Description: |
+  局域网(含手机热点)下自动发现设备,互传文件 / 图片 / 文件夹,并聊天式互发信息。
+  无服务器、不走互联网。任意组合互通:Android 与 Windows、Android 与 Android、
+  Windows 与 Windows。
+
+  特点:
+  * 核心场景:一台设备不联网、只开热点,另一台连上该热点,两者即可互相发现并通信。
+  * 聊天式互发信息,带会话界面。
+  * 并行分块传输 + 断点续传。
+  * 设备配对需核对六位数号码,避免误连陌生设备。
+  * 可调 TCP 并发数、指定接收与数据文件夹,支持保持长连接。
+
+  定位:从零自己实现的一套 LocalSend 同类工具,不是 LocalSend 的 fork。
+  本仓库分发的是「大司农」的安卓端(另有 Windows 端)。
+AutoUpdateMode: None
+UpdateCheckMode: None
+CurrentVersionCode: 2147483647
