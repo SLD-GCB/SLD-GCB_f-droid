@@ -1,0 +1,58 @@
+{
+  "METADATA_VERSION": 20002,
+  "allow_disabled_algorithms": false,
+  "com.taowu_38.apk": {
+    "hash": "dd93a017038bb30eddc57a5e84c043669de9eec74f86116b020b6ada5e32624f",
+    "hashType": "sha256",
+    "uses-permission": [
+      [
+        "android.permission.INTERNET",
+        null
+      ],
+      [
+        "android.permission.ACCESS_NETWORK_STATE",
+        null
+      ],
+      [
+        "android.permission.FOREGROUND_SERVICE",
+        null
+      ],
+      [
+        "android.permission.FOREGROUND_SERVICE_DATA_SYNC",
+        null
+      ],
+      [
+        "android.permission.POST_NOTIFICATIONS",
+        null
+      ],
+      [
+        "android.permission.WAKE_LOCK",
+        null
+      ],
+      [
+        "com.taowu.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+        null
+      ]
+    ],
+    "uses-permission-sdk-23": [],
+    "features": [],
+    "icons_src": {},
+    "icons": {},
+    "antiFeatures": {},
+    "packageName": "com.taowu",
+    "versionCode": 38,
+    "name": "\u68bc\u674c",
+    "versionName": "5.6",
+    "minSdkVersion": 26,
+    "targetSdkVersion": 37,
+    "nativecode": [
+      "arm64-v8a",
+      "armeabi-v7a"
+    ],
+    "sig": "c4d6d31418aa29322d0c097617552ead",
+    "signer": "08e44c5b26d95a83aec0025cbef8f99bd7afbadeed0831883101e5fee0f29dfe",
+    "size": 18981727,
+    "apkName": "com.taowu_38.apk",
+    "added": 1791963848.965003
+  }
+}

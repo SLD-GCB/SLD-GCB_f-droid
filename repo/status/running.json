@@ -1,0 +1,53 @@
+{
+  "/etc/issue.net": "Debian GNU/Linux 12",
+  "antiFeatures": {},
+  "apksigner": "/usr/bin/apksigner",
+  "archivePolicy0": [],
+  "commandLine": [
+    "/usr/local/bin/fdroid update",
+    "--create-metadata",
+    "--pretty",
+    "--use-date-from-apk",
+    "--rename-apks",
+    "--clean"
+  ],
+  "disabled": [],
+  "endTimestamp": 1791963865099,
+  "failedBuilds": {},
+  "fdroiddata": {
+    "commitId": "4438a3455f70a53ac12a19bbe338aa1768b94b33",
+    "isDirty": false,
+    "modifiedFiles": [],
+    "untrackedFiles": [
+      "metadata/com.taowu.yml",
+      "repo/com.taowu_38.apk",
+      "repo/entry.jar",
+      "repo/entry.json",
+      "repo/icons/icon.png",
+      "repo/index-v1.jar",
+      "repo/index-v1.json",
+      "repo/index-v2.json",
+      "repo/index.css",
+      "repo/index.html",
+      "repo/index.jar",
+      "repo/index.png",
+      "repo/index.xml",
+      "repo/status/running.json",
+      "tmp/apkcache.json",
+      "tmp/repo_1791963862000.json"
+    ]
+  },
+  "jarsigner": "/usr/local/openjdk-25/bin/jarsigner",
+  "keytool": "/usr/local/openjdk-25/bin/keytool",
+  "needsUpdate": [
+    "com.taowu"
+  ],
+  "noPackages": [
+    "com.taowu"
+  ],
+  "noUpdateCheck": [
+    "com.taowu"
+  ],
+  "startTimestamp": 1791963862000,
+  "subcommand": "update"
+}

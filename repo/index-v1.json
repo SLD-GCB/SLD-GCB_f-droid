@@ -1,0 +1,79 @@
+{
+  "repo": {
+    "timestamp": 1791963862000,
+    "version": 20002,
+    "name": "SLD-GCB",
+    "icon": "icon.png",
+    "address": "https://SLD-GCB.github.io/SLD-GCB_f-droid/repo",
+    "description": "SLD-GCB\u7684FDroid\u4ed3\u5e93"
+  },
+  "requests": {
+    "install": [],
+    "uninstall": []
+  },
+  "apps": [
+    {
+      "categories": [
+        "repo"
+      ],
+      "suggestedVersionCode": "2147483647",
+      "license": "Unknown",
+      "name": "\u68bc\u674c",
+      "added": 1791963848000,
+      "packageName": "com.taowu",
+      "lastUpdated": 1791963848000
+    }
+  ],
+  "packages": {
+    "com.taowu": [
+      {
+        "added": 1791963848000,
+        "apkName": "com.taowu_38.apk",
+        "hash": "dd93a017038bb30eddc57a5e84c043669de9eec74f86116b020b6ada5e32624f",
+        "hashType": "sha256",
+        "minSdkVersion": 26,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a"
+        ],
+        "packageName": "com.taowu",
+        "sig": "c4d6d31418aa29322d0c097617552ead",
+        "signer": "08e44c5b26d95a83aec0025cbef8f99bd7afbadeed0831883101e5fee0f29dfe",
+        "size": 18981727,
+        "targetSdkVersion": 37,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE_DATA_SYNC",
+            null
+          ],
+          [
+            "android.permission.POST_NOTIFICATIONS",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "com.taowu.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+            null
+          ]
+        ],
+        "versionCode": 38,
+        "versionName": "5.6"
+      }
+    ]
+  }
+}
