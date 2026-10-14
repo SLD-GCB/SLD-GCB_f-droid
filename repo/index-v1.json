@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1791963862000,
+    "timestamp": 1791964892000,
     "version": 20002,
     "name": "SLD-GCB",
     "icon": "icon.png",
@@ -13,18 +13,214 @@
   },
   "apps": [
     {
+      "authorEmail": "hdhdkc54748448@gmail.com",
+      "authorName": "SLD-GCB",
       "categories": [
-        "repo"
+        "Connectivity"
       ],
       "suggestedVersionCode": "2147483647",
-      "license": "Unknown",
+      "description": "\u5c40\u57df\u7f51(\u542b\u624b\u673a\u70ed\u70b9)\u4e0b\u81ea\u52a8\u53d1\u73b0\u8bbe\u5907,\u4e92\u4f20\u6587\u4ef6 / \u56fe\u7247 / \u6587\u4ef6\u5939,\u5e76\u804a\u5929\u5f0f\u4e92\u53d1\u4fe1\u606f\u3002\n\u65e0\u670d\u52a1\u5668\u3001\u4e0d\u8d70\u4e92\u8054\u7f51\u3002\u4efb\u610f\u7ec4\u5408\u4e92\u901a:Android \u4e0e Windows\u3001Android \u4e0e Android\u3001\nWindows \u4e0e Windows\u3002\n\n\u7279\u70b9:\n* \u6838\u5fc3\u573a\u666f:\u4e00\u53f0\u8bbe\u5907\u4e0d\u8054\u7f51\u3001\u53ea\u5f00\u70ed\u70b9,\u53e6\u4e00\u53f0\u8fde\u4e0a\u8be5\u70ed\u70b9,\u4e24\u8005\u5373\u53ef\u4e92\u76f8\u53d1\u73b0\u5e76\u901a\u4fe1\u3002\n* \u804a\u5929\u5f0f\u4e92\u53d1\u4fe1\u606f,\u5e26\u4f1a\u8bdd\u754c\u9762\u3002\n* \u5e76\u884c\u5206\u5757\u4f20\u8f93 + \u65ad\u70b9\u7eed\u4f20\u3002\n* \u8bbe\u5907\u914d\u5bf9\u9700\u6838\u5bf9\u516d\u4f4d\u6570\u53f7\u7801,\u907f\u514d\u8bef\u8fde\u964c\u751f\u8bbe\u5907\u3002\n* \u53ef\u8c03 TCP \u5e76\u53d1\u6570\u3001\u6307\u5b9a\u63a5\u6536\u4e0e\u6570\u636e\u6587\u4ef6\u5939,\u652f\u6301\u4fdd\u6301\u957f\u8fde\u63a5\u3002\n\n\u5b9a\u4f4d:\u4ece\u96f6\u81ea\u5df1\u5b9e\u73b0\u7684\u4e00\u5957 LocalSend \u540c\u7c7b\u5de5\u5177,\u4e0d\u662f LocalSend \u7684 fork\u3002\n\u672c\u4ed3\u5e93\u5206\u53d1\u7684\u662f\u300c\u5927\u53f8\u519c\u300d\u7684\u5b89\u5353\u7aef(\u53e6\u6709 Windows \u7aef)\u3002\n",
+      "issueTracker": "https://github.com/SLD-GCB/DSN-android-windows/issues",
+      "license": "AGPL-3.0-only",
+      "name": "\u5927\u53f8\u519c",
+      "sourceCode": "https://github.com/SLD-GCB/DSN-android-windows",
+      "summary": "\u5c40\u57df\u7f51\u6587\u4ef6\u4e92\u4f20\u4e0e\u804a\u5929",
+      "webSite": "https://github.com/SLD-GCB/DSN-android-windows",
+      "added": 1791964873000,
+      "packageName": "com.dasinong",
+      "lastUpdated": 1791964873000
+    },
+    {
+      "authorEmail": "hdhdkc54748448@gmail.com",
+      "authorName": "SLD-GCB",
+      "categories": [
+        "Internet",
+        "Multimedia"
+      ],
+      "suggestedVersionCode": "2147483647",
+      "description": "\u4e00\u4e2a\u5b89\u5353\u4e0a\u7684\u7f51\u9875\u89c6\u9891 / \u52a8\u6f2b\u6293\u53d6\u4e0e\u4e0b\u8f7d\u5de5\u5177\u3002\u5185\u7f6e\u6d4f\u89c8\u5668\u8d70\u5230\u8981\u6293\u7684\u9875\u9762,\u70b9\u4e00\u4e0b\u6309\u94ae,\n\u81ea\u52a8\u89e3\u6790\u51fa m3u8 / mp4 / DASH \u6d41\u5e76\u4e0b\u8f7d\u6210\u80fd\u64ad\u7684\u672c\u5730\u6587\u4ef6\u3002\u672c\u9879\u76ee\u662f PC \u7248\u68bc\u674c v2.1\n(Python + Qt)\u7684\u5b89\u5353\u79fb\u690d\u7248\u3002\n\n\u4e3b\u8981\u529f\u80fd:\n* HLS / DASH \u4e0b\u8f7d:\u5206\u7247\u5e76\u53d1,\u652f\u6301 AES-128 / AES-256 / AES-256-CTR / cbcs \u89e3\u5bc6\u3001\n  DASH CENC / ClearKey\u3002\n* \u76f4\u94fe\u4e0b\u8f7d:Range \u591a\u8fde\u63a5\u52a0\u901f + \u65ad\u70b9\u7eed\u4f20\u3002\n* \u5728\u7ebf\u8bd5\u64ad:\u4e0b\u8f7d\u524d\u53ef\u5148\u8bd5\u64ad,\u4e0b\u8f7d\u540e\u5728\u300c\u5185\u5bb9\u300d\u9875\u79bb\u7ebf\u64ad\u653e,\u542b\u8fdb\u5ea6\u3001\u9009\u96c6\u3001\u6a2a\u5c4f\u3002\n* \u6574\u90e8\u6293\u53d6:\u6279\u91cf\u4e0b\u8f7d\u6574\u90e8\u4f5c\u54c1\u3002\n* \u7f51\u9875\u63a2\u6d4b:\u6d4f\u89c8\u5668\u65c1\u542c\u8bf7\u6c42 + JS \u6ce8\u5165\u8bc6\u522b\u5a92\u4f53\u6d41\u3002\n",
+      "issueTracker": "https://github.com/SLD-GCB/Taowu-spider-Android/issues",
+      "license": "AGPL-3.0-only",
       "name": "\u68bc\u674c",
+      "sourceCode": "https://github.com/SLD-GCB/Taowu-spider-Android",
+      "summary": "\u7f51\u9875\u89c6\u9891\u6293\u53d6\u4e0e\u4e0b\u8f7d",
+      "webSite": "https://github.com/SLD-GCB/Taowu-spider-Android",
       "added": 1791963848000,
       "packageName": "com.taowu",
       "lastUpdated": 1791963848000
+    },
+    {
+      "authorEmail": "hdhdkc54748448@gmail.com",
+      "authorName": "SLD-GCB",
+      "categories": [
+        "Internet"
+      ],
+      "suggestedVersionCode": "2147483647",
+      "description": "\u672c\u5730\u4f18\u5148\u7684 AI \u89d2\u8272\u626e\u6f14\u804a\u5929\u5e94\u7528(Android)\u3002\u6240\u6709\u89d2\u8272\u3001\u5bf9\u8bdd\u3001\u6a21\u578b\u90fd\u653e\u5728\u624b\u673a\u672c\u5730,\n\u4e0d\u7ecf\u8fc7\u4efb\u4f55\u670d\u52a1\u5668\u3002\n\n\u5b83\u662f PC \u7aef\u684c\u9762\u5e94\u7528\u300cai\u9152\u9986\u300d(Python + PySide6)\u7684\u5b89\u5353\u79fb\u690d,\u529f\u80fd\u5bf9\u9f50,\u5e76\u9488\u5bf9\n\u624b\u673a\u505a\u4e86\u9002\u914d\u3002\u540d\u5b57\u53d6\u81ea\u53e4\u4ee3\u63a5\u5f85\u5bbe\u5ba2\u7684\u5b98\u7f72\u9e3f\u80ea\u5bfa \u2014\u2014 \u610f\u601d\u662f\u300c\u4f60\u7684\u5ba2\u4eba\u90fd\u4f4f\u5728\u8fd9\u513f,\n\u4e0d\u7528\u51fa\u95e8\u300d\u3002\n\nPC \u7aef\u6e90\u7801:https://github.com/SLD-GCB/HLS-ai-orginal-code\n",
+      "issueTracker": "https://github.com/SLD-GCB/HLS-AI-Android/issues",
+      "license": "AGPL-3.0-only",
+      "name": "\u9e3f\u80ea\u5bfa",
+      "sourceCode": "https://github.com/SLD-GCB/HLS-AI-Android",
+      "summary": "\u672c\u5730\u4f18\u5148\u7684 AI \u89d2\u8272\u626e\u6f14\u804a\u5929",
+      "webSite": "https://github.com/SLD-GCB/HLS-AI-Android",
+      "added": 1791964874000,
+      "packageName": "com.honglusi.tavern",
+      "lastUpdated": 1791964874000
     }
   ],
   "packages": {
+    "com.dasinong": [
+      {
+        "added": 1791964873000,
+        "apkName": "com.dasinong_46.apk",
+        "hash": "a9773a4c87c6ede7fd8a004e53e0c86347035659165ae7876fb48023d7a1c1d1",
+        "hashType": "sha256",
+        "minSdkVersion": 26,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a",
+          "x86",
+          "x86_64"
+        ],
+        "packageName": "com.dasinong",
+        "sig": "0ce264efc946980cf54c067d4d84109f",
+        "signer": "da38c5b01b7c15965f073e2c047c3dc469ad388454af91d11715388d483b6710",
+        "size": 12405898,
+        "targetSdkVersion": 37,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.ACCESS_WIFI_STATE",
+            null
+          ],
+          [
+            "android.permission.CHANGE_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.CHANGE_WIFI_STATE",
+            null
+          ],
+          [
+            "android.permission.CHANGE_WIFI_MULTICAST_STATE",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "android.permission.POST_NOTIFICATIONS",
+            null
+          ],
+          [
+            "android.permission.NEARBY_WIFI_DEVICES",
+            null
+          ],
+          [
+            "android.permission.ACCESS_FINE_LOCATION",
+            32
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE_DATA_SYNC",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE_CONNECTED_DEVICE",
+            null
+          ],
+          [
+            "android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "android.permission.REQUEST_INSTALL_PACKAGES",
+            null
+          ],
+          [
+            "com.dasinong.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+            null
+          ]
+        ],
+        "versionCode": 46,
+        "versionName": "6.40"
+      }
+    ],
+    "com.honglusi.tavern": [
+      {
+        "added": 1791964874000,
+        "apkName": "com.honglusi.tavern_10.apk",
+        "hash": "9ae9ad99a603056e078e4a68d3f8830f3c83275d4b46fdaef7a441fb0d347831",
+        "hashType": "sha256",
+        "minSdkVersion": 26,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a",
+          "x86",
+          "x86_64"
+        ],
+        "packageName": "com.honglusi.tavern",
+        "sig": "0b88e6222e9ded1bb963edbf7710fb24",
+        "signer": "c1455fa2ecfd8fa375c5aef4ca7ce14015c142e792ee00c27ba136f342c83f9c",
+        "size": 18016919,
+        "targetSdkVersion": 37,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.POST_NOTIFICATIONS",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE_DATA_SYNC",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "android.permission.ACCESS_WIFI_STATE",
+            null
+          ],
+          [
+            "android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS",
+            null
+          ],
+          [
+            "com.honglusi.tavern.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+            null
+          ]
+        ],
+        "versionCode": 10,
+        "versionName": "0.6.1"
+      }
+    ],
     "com.taowu": [
       {
         "added": 1791963848000,

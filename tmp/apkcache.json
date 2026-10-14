@@ -1,6 +1,102 @@
 {
   "METADATA_VERSION": 20002,
   "allow_disabled_algorithms": false,
+  "com.dasinong_46.apk": {
+    "hash": "a9773a4c87c6ede7fd8a004e53e0c86347035659165ae7876fb48023d7a1c1d1",
+    "hashType": "sha256",
+    "uses-permission": [
+      [
+        "android.permission.INTERNET",
+        null
+      ],
+      [
+        "android.permission.ACCESS_NETWORK_STATE",
+        null
+      ],
+      [
+        "android.permission.ACCESS_WIFI_STATE",
+        null
+      ],
+      [
+        "android.permission.CHANGE_NETWORK_STATE",
+        null
+      ],
+      [
+        "android.permission.CHANGE_WIFI_STATE",
+        null
+      ],
+      [
+        "android.permission.CHANGE_WIFI_MULTICAST_STATE",
+        null
+      ],
+      [
+        "android.permission.WAKE_LOCK",
+        null
+      ],
+      [
+        "android.permission.POST_NOTIFICATIONS",
+        null
+      ],
+      [
+        "android.permission.NEARBY_WIFI_DEVICES",
+        null
+      ],
+      [
+        "android.permission.ACCESS_FINE_LOCATION",
+        32
+      ],
+      [
+        "android.permission.FOREGROUND_SERVICE",
+        null
+      ],
+      [
+        "android.permission.FOREGROUND_SERVICE_DATA_SYNC",
+        null
+      ],
+      [
+        "android.permission.FOREGROUND_SERVICE_CONNECTED_DEVICE",
+        null
+      ],
+      [
+        "android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS",
+        null
+      ],
+      [
+        "android.permission.RECEIVE_BOOT_COMPLETED",
+        null
+      ],
+      [
+        "android.permission.REQUEST_INSTALL_PACKAGES",
+        null
+      ],
+      [
+        "com.dasinong.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+        null
+      ]
+    ],
+    "uses-permission-sdk-23": [],
+    "features": [],
+    "icons_src": {},
+    "icons": {},
+    "antiFeatures": {},
+    "packageName": "com.dasinong",
+    "versionCode": 46,
+    "name": "\u5927\u53f8\u519c",
+    "versionName": "6.40",
+    "minSdkVersion": 26,
+    "targetSdkVersion": 37,
+    "nativecode": [
+      "arm64-v8a",
+      "armeabi-v7a",
+      "x86",
+      "x86_64"
+    ],
+    "sig": "0ce264efc946980cf54c067d4d84109f",
+    "signer": "da38c5b01b7c15965f073e2c047c3dc469ad388454af91d11715388d483b6710",
+    "size": 12405898,
+    "apkName": "com.dasinong_46.apk",
+    "added": 1791964873.714225
+  },
   "com.taowu_38.apk": {
     "hash": "dd93a017038bb30eddc57a5e84c043669de9eec74f86116b020b6ada5e32624f",
     "hashType": "sha256",
@@ -53,6 +149,70 @@
     "signer": "08e44c5b26d95a83aec0025cbef8f99bd7afbadeed0831883101e5fee0f29dfe",
     "size": 18981727,
     "apkName": "com.taowu_38.apk",
-    "added": 1791963848.965003
+    "added": 1791963848.0
+  },
+  "com.honglusi.tavern_10.apk": {
+    "hash": "9ae9ad99a603056e078e4a68d3f8830f3c83275d4b46fdaef7a441fb0d347831",
+    "hashType": "sha256",
+    "uses-permission": [
+      [
+        "android.permission.INTERNET",
+        null
+      ],
+      [
+        "android.permission.ACCESS_NETWORK_STATE",
+        null
+      ],
+      [
+        "android.permission.POST_NOTIFICATIONS",
+        null
+      ],
+      [
+        "android.permission.FOREGROUND_SERVICE",
+        null
+      ],
+      [
+        "android.permission.FOREGROUND_SERVICE_DATA_SYNC",
+        null
+      ],
+      [
+        "android.permission.WAKE_LOCK",
+        null
+      ],
+      [
+        "android.permission.ACCESS_WIFI_STATE",
+        null
+      ],
+      [
+        "android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS",
+        null
+      ],
+      [
+        "com.honglusi.tavern.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+        null
+      ]
+    ],
+    "uses-permission-sdk-23": [],
+    "features": [],
+    "icons_src": {},
+    "icons": {},
+    "antiFeatures": {},
+    "packageName": "com.honglusi.tavern",
+    "versionCode": 10,
+    "name": "\u9e3f\u80ea\u5bfa",
+    "versionName": "0.6.1",
+    "minSdkVersion": 26,
+    "targetSdkVersion": 37,
+    "nativecode": [
+      "arm64-v8a",
+      "armeabi-v7a",
+      "x86",
+      "x86_64"
+    ],
+    "sig": "0b88e6222e9ded1bb963edbf7710fb24",
+    "signer": "c1455fa2ecfd8fa375c5aef4ca7ce14015c142e792ee00c27ba136f342c83f9c",
+    "size": 18016919,
+    "apkName": "com.honglusi.tavern_10.apk",
+    "added": 1791964874.812227
   }
 }
