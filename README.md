@@ -7,6 +7,8 @@
   <img alt="Get it on F-Droid" src="https://f-droid.org/badge/get-it-on.svg" width="200">
 </a>
 
+> 从零搭建这个仓库的完整过程、踩过的坑，见 **[docs/搭建全过程.md](docs/搭建全过程.md)**。
+
 ---
 
 ## 给用户
