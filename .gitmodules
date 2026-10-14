@@ -1,4 +1,0 @@
-[submodule "fdroid"]
-	path = fdroid
-	url = https://github.com/AoEiuV020/f-droid-repo.git
-	branch = gh-pages
