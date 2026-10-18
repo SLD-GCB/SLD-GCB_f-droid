@@ -1,0 +1,9 @@
+开始处理 APK 目录
+处理URL文件: horsebox-metadata.txt
+下载URL: https://raw.githubusercontent.com/SLD-GCB/SLD-GCB_f-droid/gh-pages/repo/com.horseui.horsebox_2001.apk
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:01 --:--:--     0100 74.4M  100 74.4M    0     0  51.5M      0  0:00:01  0:00:01 --:--:-- 51.5M
+下载成功: com.horseui.horsebox_2001.apk
+删除URL文件: horsebox-metadata.txt
+完成处理，共处理 1 个文件
