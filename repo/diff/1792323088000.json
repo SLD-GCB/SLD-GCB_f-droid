@@ -1,0 +1,30 @@
+{
+  "repo": {
+    "timestamp": 1792323233000,
+    "categories": {
+      "repo": null
+    }
+  },
+  "packages": {
+    "com.horseui.horsebox": {
+      "metadata": {
+        "categories": [
+          "Internet",
+          "Connectivity"
+        ],
+        "issueTracker": "https://github.com/SLD-GCB/HorseBox/issues",
+        "license": "AGPL-3.0-only",
+        "sourceCode": "https://github.com/SLD-GCB/HorseBox",
+        "webSite": "https://github.com/SLD-GCB/HorseBox",
+        "authorEmail": "hdhdkc54748448@gmail.com",
+        "authorName": "SLD-GCB",
+        "summary": {
+          "en-US": "HorseUI 面板的专用代理客户端"
+        },
+        "description": {
+          "en-US": "HorseBox 是 HorseUI 面板的配套代理客户端，一套 Flutter 代码同时构建\nWindows 和 Android。客户端本身不包含节点，节点和分流配置都来自面板订阅。\n\n主要功能：\n* 订阅拉取：支持面板的 sing-box 订阅地址，添加时填写面板证书 SHA-256 指纹。\n* 国内分流：内置 geosite-cn / geoip-cn，国内域名和 IP 直连，其余走代理。\n* 自定义规则：域名后缀、域名关键字、IP 段，可指定直连、代理或拦截。\n* 分应用代理：可选择走代理的应用和强制直连的应用，系统应用默认直连。\n* 节点管理：自动选择、手动切换、单节点测速、全部测速。\n* 网络设置：混合端口、TUN、TUN 栈、MTU、IPv6、局域网。\n* 其他：hosts 映射、连接列表、实时流量、日志、深色/浅色主题。\n"
+        }
+      }
+    }
+  }
+}
