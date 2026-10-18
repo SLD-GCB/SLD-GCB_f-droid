@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1791964892000,
+    "timestamp": 1792323088000,
     "version": 20002,
     "name": "SLD-GCB",
     "icon": "icon.png",
@@ -12,6 +12,17 @@
     "uninstall": []
   },
   "apps": [
+    {
+      "categories": [
+        "repo"
+      ],
+      "suggestedVersionCode": "2147483647",
+      "license": "Unknown",
+      "name": "HorseBox",
+      "added": 1792323062000,
+      "packageName": "com.horseui.horsebox",
+      "lastUpdated": 1792323062000
+    },
     {
       "authorEmail": "hdhdkc54748448@gmail.com",
       "authorName": "SLD-GCB",
@@ -219,6 +230,59 @@
         ],
         "versionCode": 10,
         "versionName": "0.6.1"
+      }
+    ],
+    "com.horseui.horsebox": [
+      {
+        "added": 1792323062000,
+        "apkName": "com.horseui.horsebox_2001.apk",
+        "hash": "0405c712927a44a3e655a72e4ecf07051a0fa970d3c6e4dc77ce83bb1be90336",
+        "hashType": "sha256",
+        "minSdkVersion": 24,
+        "nativecode": [
+          "arm64-v8a"
+        ],
+        "packageName": "com.horseui.horsebox",
+        "sig": "e020df532705524d9752034d555a498c",
+        "signer": "2c051364edd9d895eddbe6f05cf29c9285b150a091d39ec1bd69d13a94993587",
+        "size": 78071215,
+        "targetSdkVersion": 36,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE_SPECIAL_USE",
+            null
+          ],
+          [
+            "android.permission.POST_NOTIFICATIONS",
+            null
+          ],
+          [
+            "android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS",
+            null
+          ],
+          [
+            "android.permission.QUERY_ALL_PACKAGES",
+            null
+          ],
+          [
+            "com.horseui.horsebox.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+            null
+          ]
+        ],
+        "versionCode": 2001,
+        "versionName": "1.0"
       }
     ],
     "com.taowu": [

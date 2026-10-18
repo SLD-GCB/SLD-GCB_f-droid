@@ -1,0 +1,79 @@
+{
+  "repo": {
+    "timestamp": 1792323088000,
+    "categories": {
+      "repo": {
+        "name": {
+          "en-US": "repo"
+        }
+      }
+    }
+  },
+  "packages": {
+    "com.horseui.horsebox": {
+      "metadata": {
+        "added": 1792323062000,
+        "categories": [
+          "repo"
+        ],
+        "lastUpdated": 1792323062000,
+        "name": {
+          "en-US": "HorseBox"
+        },
+        "preferredSigner": "2c051364edd9d895eddbe6f05cf29c9285b150a091d39ec1bd69d13a94993587"
+      },
+      "versions": {
+        "0405c712927a44a3e655a72e4ecf07051a0fa970d3c6e4dc77ce83bb1be90336": {
+          "added": 1792323062000,
+          "file": {
+            "name": "/com.horseui.horsebox_2001.apk",
+            "sha256": "0405c712927a44a3e655a72e4ecf07051a0fa970d3c6e4dc77ce83bb1be90336",
+            "size": 78071215
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a"
+            ],
+            "versionName": "1.0",
+            "versionCode": 2001,
+            "usesSdk": {
+              "minSdkVersion": 24,
+              "targetSdkVersion": 36
+            },
+            "signer": {
+              "sha256": [
+                "2c051364edd9d895eddbe6f05cf29c9285b150a091d39ec1bd69d13a94993587"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "android.permission.ACCESS_NETWORK_STATE"
+              },
+              {
+                "name": "android.permission.FOREGROUND_SERVICE"
+              },
+              {
+                "name": "android.permission.FOREGROUND_SERVICE_SPECIAL_USE"
+              },
+              {
+                "name": "android.permission.POST_NOTIFICATIONS"
+              },
+              {
+                "name": "android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS"
+              },
+              {
+                "name": "android.permission.QUERY_ALL_PACKAGES"
+              },
+              {
+                "name": "com.horseui.horsebox.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+              }
+            ]
+          }
+        }
+      }
+    }
+  }
+}

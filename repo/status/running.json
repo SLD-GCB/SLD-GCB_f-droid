@@ -12,12 +12,13 @@
     "--clean"
   ],
   "disabled": [],
-  "endTimestamp": 1791964895532,
+  "endTimestamp": 1792323090762,
   "failedBuilds": {},
   "fdroiddata": {
-    "commitId": "afa60904076f0c665c3a9265c843f9c0896861d4",
+    "commitId": "8f70ce857b9d974fe7e90c5b89fa3add12ea0115",
     "isDirty": true,
     "modifiedFiles": [
+      "repo/diff/1791963862000.json",
       "repo/entry.jar",
       "repo/entry.json",
       "repo/index-v1.jar",
@@ -30,10 +31,10 @@
       "tmp/apkcache.json"
     ],
     "untrackedFiles": [
-      "repo/com.dasinong_46.apk",
-      "repo/com.honglusi.tavern_10.apk",
-      "repo/diff/1791963862000.json",
-      "tmp/repo_1791964892000.json"
+      "metadata/com.horseui.horsebox.yml",
+      "repo/com.horseui.horsebox_2001.apk",
+      "repo/diff/1791964892000.json",
+      "tmp/repo_1792323088000.json"
     ]
   },
   "jarsigner": "/usr/local/openjdk-25/bin/jarsigner",
@@ -41,18 +42,21 @@
   "needsUpdate": [
     "com.dasinong",
     "com.honglusi.tavern",
+    "com.horseui.horsebox",
     "com.taowu"
   ],
   "noPackages": [
     "com.dasinong",
     "com.honglusi.tavern",
+    "com.horseui.horsebox",
     "com.taowu"
   ],
   "noUpdateCheck": [
     "com.dasinong",
     "com.honglusi.tavern",
+    "com.horseui.horsebox",
     "com.taowu"
   ],
-  "startTimestamp": 1791964890000,
+  "startTimestamp": 1792323086000,
   "subcommand": "update"
 }
