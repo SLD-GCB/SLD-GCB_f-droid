@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1792380241000,
+    "timestamp": 1792512516000,
     "version": 20002,
     "name": "SLD-GCB",
     "icon": "icon.png",
@@ -20,7 +20,7 @@
         "Connectivity"
       ],
       "suggestedVersionCode": "2147483647",
-      "description": "HorseBox \u662f HorseUI \u9762\u677f\u7684\u914d\u5957\u4ee3\u7406\u5ba2\u6237\u7aef\uff0c\u4e00\u5957 Flutter \u4ee3\u7801\u540c\u65f6\u6784\u5efa\nWindows \u548c Android\u3002\u5ba2\u6237\u7aef\u672c\u8eab\u4e0d\u5305\u542b\u8282\u70b9\uff0c\u8282\u70b9\u548c\u5206\u6d41\u914d\u7f6e\u90fd\u6765\u81ea\u9762\u677f\u8ba2\u9605\u3002\n\n\u4e3b\u8981\u529f\u80fd\uff1a\n* \u8ba2\u9605\u62c9\u53d6\uff1a\u652f\u6301\u9762\u677f\u7684 sing-box \u8ba2\u9605\u5730\u5740\uff0c\u6dfb\u52a0\u65f6\u586b\u5199\u9762\u677f\u8bc1\u4e66 SHA-256 \u6307\u7eb9\u3002\n* \u56fd\u5185\u5206\u6d41\uff1a\u5185\u7f6e geosite-cn / geoip-cn\uff0c\u56fd\u5185\u57df\u540d\u548c IP \u76f4\u8fde\uff0c\u5176\u4f59\u8d70\u4ee3\u7406\u3002\n* \u81ea\u5b9a\u4e49\u89c4\u5219\uff1a\u57df\u540d\u540e\u7f00\u3001\u57df\u540d\u5173\u952e\u5b57\u3001IP \u6bb5\uff0c\u53ef\u6307\u5b9a\u76f4\u8fde\u3001\u4ee3\u7406\u6216\u62e6\u622a\u3002\n* \u5206\u5e94\u7528\u4ee3\u7406\uff1a\u53ef\u9009\u62e9\u8d70\u4ee3\u7406\u7684\u5e94\u7528\u548c\u5f3a\u5236\u76f4\u8fde\u7684\u5e94\u7528\uff0c\u7cfb\u7edf\u5e94\u7528\u9ed8\u8ba4\u76f4\u8fde\u3002\n* \u8282\u70b9\u7ba1\u7406\uff1a\u81ea\u52a8\u9009\u62e9\u3001\u624b\u52a8\u5207\u6362\u3001\u5355\u8282\u70b9\u6d4b\u901f\u3001\u5168\u90e8\u6d4b\u901f\u3002\n* \u7f51\u7edc\u8bbe\u7f6e\uff1a\u6df7\u5408\u7aef\u53e3\u3001TUN\u3001TUN \u6808\u3001MTU\u3001IPv6\u3001\u5c40\u57df\u7f51\u3002\n* \u5176\u4ed6\uff1ahosts \u6620\u5c04\u3001\u8fde\u63a5\u5217\u8868\u3001\u5b9e\u65f6\u6d41\u91cf\u3001\u65e5\u5fd7\u3001\u6df1\u8272/\u6d45\u8272\u4e3b\u9898\u3002\n",
+      "description": "HorseBox \u662f HorseUI \u9762\u677f\u7684\u914d\u5957\u4ee3\u7406\u5ba2\u6237\u7aef\uff0c\u4e00\u5957 Flutter \u4ee3\u7801\u540c\u65f6\u6784\u5efa\nWindows \u548c Android\u3002\u5ba2\u6237\u7aef\u672c\u8eab\u4e0d\u5305\u542b\u8282\u70b9\uff0c\u8282\u70b9\u548c\u5206\u6d41\u914d\u7f6e\u90fd\u6765\u81ea\u9762\u677f\u8ba2\u9605\u3002\n\n\u4e3b\u8981\u529f\u80fd\uff1a\n* \u8ba2\u9605\u62c9\u53d6\uff1a\u652f\u6301\u9762\u677f\u7684 sing-box \u8ba2\u9605\u5730\u5740\uff0c\u6dfb\u52a0\u65f6\u586b\u5199\u9762\u677f\u8bc1\u4e66 SHA-256 \u6307\u7eb9\u3002\n* \u56fd\u5185\u5206\u6d41\uff1a\u5185\u7f6e geosite-cn / geoip-cn\uff0c\u56fd\u5185\u57df\u540d\u548c IP \u76f4\u8fde\uff0c\u5176\u4f59\u8d70\u4ee3\u7406\u3002\n* \u81ea\u5b9a\u4e49\u89c4\u5219\uff1a\u57df\u540d\u540e\u7f00\u3001\u57df\u540d\u5173\u952e\u5b57\u3001IP \u6bb5\uff0c\u53ef\u6307\u5b9a\u76f4\u8fde\u3001\u4ee3\u7406\u6216\u62e6\u622a\u3002\n* \u5206\u5e94\u7528\u4ee3\u7406\uff1a\u53ef\u9009\u62e9\u8d70\u4ee3\u7406\u7684\u5e94\u7528\u548c\u5f3a\u5236\u76f4\u8fde\u7684\u5e94\u7528\uff0c\u7cfb\u7edf\u5e94\u7528\u9ed8\u8ba4\u76f4\u8fde\u3002\n* \u8282\u70b9\u7ba1\u7406\uff1a\u81ea\u52a8\u9009\u62e9\u3001\u624b\u52a8\u5207\u6362\u3001\u5355\u8282\u70b9\u6d4b\u901f\u3001\u5168\u90e8\u6d4b\u901f\u3002\n* \u7f51\u7edc\u8bbe\u7f6e\uff1a\u6df7\u5408\u7aef\u53e3\u3001TUN\u3001TUN \u6808\u3001MTU\u3001IPv6\u3001\u5c40\u57df\u7f51\u3002\n* \u5185\u5d4c\u9762\u677f\uff1a\u5728\u5ba2\u6237\u7aef\u91cc\u76f4\u63a5\u6253\u5f00 HorseUI \u9762\u677f\uff0c\u9996\u6b21\u767b\u5f55\u63d0\u4f9b\u4e34\u65f6\u52a0\u5bc6\u8fde\u63a5\u3002\n* \u914d\u7f6e\uff1a\u5185\u7f6e SSH \u7ec8\u7aef\uff0c\u53ef\u7ba1\u7406\u670d\u52a1\u5668\u3001\u4f20\u8f93\u6587\u4ef6\uff08SFTP\uff09\u548c\u505a\u672c\u5730\u7aef\u53e3\u8f6c\u53d1\u3002\n* \u5bc6\u7801\u672c\uff1a\u8bb0\u5f55\u9762\u677f\u767b\u5f55\u8d26\u53f7\uff0c\u767b\u5f55\u9875\u4e00\u952e\u586b\u5165\uff0c\u5bc6\u7801\u672c\u5730\u52a0\u5bc6\u5b58\u50a8\u3002\n* \u8ba2\u9605\u7528\u91cf\uff1a\u8ba2\u9605\u5361\u7247\u663e\u793a\u5df2\u7528 / \u603b\u989d\u8fdb\u5ea6\u6761\uff0c\u7528\u91cf\u7531\u5ba2\u6237\u7aef\u672c\u5730\u7d2f\u8ba1\u3002\n* \u5176\u4ed6\uff1ahosts \u6620\u5c04\u3001\u8fde\u63a5\u5217\u8868\u3001\u5b9e\u65f6\u6d41\u91cf\u3001\u65e5\u5fd7\u3001\u6df1\u8272/\u6d45\u8272\u4e3b\u9898\u3002\n\n\u6240\u6709\u654f\u611f\u4fe1\u606f\uff08\u8ba2\u9605\u4ee4\u724c\u3001SSH \u5bc6\u7801\u3001\u9762\u677f\u5bc6\u7801\uff09\u90fd\u7528 AES-256-GCM \u52a0\u5bc6\u5b58\u50a8\u3002\n",
       "issueTracker": "https://github.com/SLD-GCB/HorseBox/issues",
       "license": "AGPL-3.0-only",
       "name": "HorseBox",
@@ -29,7 +29,7 @@
       "webSite": "https://github.com/SLD-GCB/HorseBox",
       "added": 1792323062000,
       "packageName": "com.horseui.horsebox",
-      "lastUpdated": 1792380215000
+      "lastUpdated": 1792512485000
     },
     {
       "authorEmail": "hdhdkc54748448@gmail.com",
@@ -241,6 +241,57 @@
       }
     ],
     "com.horseui.horsebox": [
+      {
+        "added": 1792512485000,
+        "apkName": "com.horseui.horsebox_5015.apk",
+        "hash": "f9420d4c39980cb447318d7a9972227b92605af7ae23896b7ab0e38cab9afd21",
+        "hashType": "sha256",
+        "minSdkVersion": 24,
+        "nativecode": [
+          "arm64-v8a"
+        ],
+        "packageName": "com.horseui.horsebox",
+        "sig": "e020df532705524d9752034d555a498c",
+        "signer": "2c051364edd9d895eddbe6f05cf29c9285b150a091d39ec1bd69d13a94993587",
+        "size": 82030689,
+        "targetSdkVersion": 36,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE_SPECIAL_USE",
+            null
+          ],
+          [
+            "android.permission.POST_NOTIFICATIONS",
+            null
+          ],
+          [
+            "android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS",
+            null
+          ],
+          [
+            "android.permission.QUERY_ALL_PACKAGES",
+            null
+          ],
+          [
+            "com.horseui.horsebox.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+            null
+          ]
+        ],
+        "versionCode": 5015,
+        "versionName": "3.6"
+      },
       {
         "added": 1792380215000,
         "apkName": "com.horseui.horsebox_5014.apk",

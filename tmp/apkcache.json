@@ -1,8 +1,8 @@
 {
   "METADATA_VERSION": 20002,
   "allow_disabled_algorithms": false,
-  "com.horseui.horsebox_5014.apk": {
-    "hash": "b726b56c4a8080ab20f422cf9a1620a69b478e79b1673192bfe867c3b4329a49",
+  "com.horseui.horsebox_5015.apk": {
+    "hash": "f9420d4c39980cb447318d7a9972227b92605af7ae23896b7ab0e38cab9afd21",
     "hashType": "sha256",
     "uses-permission": [
       [
@@ -44,9 +44,9 @@
     "icons": {},
     "antiFeatures": {},
     "packageName": "com.horseui.horsebox",
-    "versionCode": 5014,
+    "versionCode": 5015,
     "name": "HorseBox",
-    "versionName": "2.2.0",
+    "versionName": "3.6",
     "minSdkVersion": 24,
     "targetSdkVersion": 36,
     "nativecode": [
@@ -54,9 +54,9 @@
     ],
     "sig": "e020df532705524d9752034d555a498c",
     "signer": "2c051364edd9d895eddbe6f05cf29c9285b150a091d39ec1bd69d13a94993587",
-    "size": 79749319,
-    "apkName": "com.horseui.horsebox_5014.apk",
-    "added": 1792380215.692843
+    "size": 82030689,
+    "apkName": "com.horseui.horsebox_5015.apk",
+    "added": 1792512485.586272
   },
   "com.dasinong_46.apk": {
     "hash": "a9773a4c87c6ede7fd8a004e53e0c86347035659165ae7876fb48023d7a1c1d1",
@@ -388,6 +388,63 @@
     "size": 79749323,
     "apkName": "com.horseui.horsebox_5013.apk",
     "added": 1792346275.0
+  },
+  "com.horseui.horsebox_5014.apk": {
+    "hash": "b726b56c4a8080ab20f422cf9a1620a69b478e79b1673192bfe867c3b4329a49",
+    "hashType": "sha256",
+    "uses-permission": [
+      [
+        "android.permission.INTERNET",
+        null
+      ],
+      [
+        "android.permission.ACCESS_NETWORK_STATE",
+        null
+      ],
+      [
+        "android.permission.FOREGROUND_SERVICE",
+        null
+      ],
+      [
+        "android.permission.FOREGROUND_SERVICE_SPECIAL_USE",
+        null
+      ],
+      [
+        "android.permission.POST_NOTIFICATIONS",
+        null
+      ],
+      [
+        "android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS",
+        null
+      ],
+      [
+        "android.permission.QUERY_ALL_PACKAGES",
+        null
+      ],
+      [
+        "com.horseui.horsebox.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+        null
+      ]
+    ],
+    "uses-permission-sdk-23": [],
+    "features": [],
+    "icons_src": {},
+    "icons": {},
+    "antiFeatures": {},
+    "packageName": "com.horseui.horsebox",
+    "versionCode": 5014,
+    "name": "HorseBox",
+    "versionName": "2.2.0",
+    "minSdkVersion": 24,
+    "targetSdkVersion": 36,
+    "nativecode": [
+      "arm64-v8a"
+    ],
+    "sig": "e020df532705524d9752034d555a498c",
+    "signer": "2c051364edd9d895eddbe6f05cf29c9285b150a091d39ec1bd69d13a94993587",
+    "size": 79749319,
+    "apkName": "com.horseui.horsebox_5014.apk",
+    "added": 1792380215.0
   },
   "com.taowu_38.apk": {
     "hash": "dd93a017038bb30eddc57a5e84c043669de9eec74f86116b020b6ada5e32624f",
