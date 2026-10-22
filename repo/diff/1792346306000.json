@@ -1,16 +1,66 @@
 {
   "repo": {
-    "timestamp": 1792623299000
+    "timestamp": 1792630212000
   },
   "packages": {
     "com.horseui.horsebox": {
       "metadata": {
-        "lastUpdated": 1792623264000,
+        "lastUpdated": 1792630177000,
         "description": {
           "en-US": "HorseBox 是 HorseUI 面板的配套代理客户端，一套 Flutter 代码同时构建\nWindows 和 Android。客户端本身不包含节点，节点和分流配置都来自面板订阅。\n\n主要功能：\n* 订阅拉取：支持面板的 sing-box 订阅地址，添加时填写面板证书 SHA-256 指纹。\n* 国内分流：内置 geosite-cn / geoip-cn，国内域名和 IP 直连，其余走代理。\n* 自定义规则：域名后缀、域名关键字、IP 段，可指定直连、代理或拦截。\n* 分应用代理：可选择走代理的应用和强制直连的应用，系统应用默认直连。\n* 节点管理：自动选择、手动切换、单节点测速、全部测速。\n* 网络设置：混合端口、TUN、TUN 栈、MTU、IPv6、局域网。\n* 内嵌面板：在客户端里直接打开 HorseUI 面板，首次登录提供临时加密连接。\n* 配置：内置 SSH 终端，可管理服务器、传输文件（SFTP）和做本地端口转发。\n* 密码本：记录面板登录账号，登录页一键填入，密码本地加密存储。\n* 订阅用量：订阅卡片显示已用 / 总额进度条，用量由客户端本地累计。\n* 其他：hosts 映射、连接列表、实时流量、日志、深色/浅色主题。\n\n所有敏感信息（订阅令牌、SSH 密码、面板密码）都用 AES-256-GCM 加密存储。\n"
         }
       },
       "versions": {
+        "a5ab41b869bb946e432265042c462c60db5b5d735e04365270f0ff84f49a3e3c": {
+          "added": 1792630177000,
+          "file": {
+            "name": "/com.horseui.horsebox_7420.apk",
+            "sha256": "a5ab41b869bb946e432265042c462c60db5b5d735e04365270f0ff84f49a3e3c",
+            "size": 82358369
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a"
+            ],
+            "versionName": "4.2",
+            "versionCode": 7420,
+            "usesSdk": {
+              "minSdkVersion": 24,
+              "targetSdkVersion": 36
+            },
+            "signer": {
+              "sha256": [
+                "2c051364edd9d895eddbe6f05cf29c9285b150a091d39ec1bd69d13a94993587"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "android.permission.ACCESS_NETWORK_STATE"
+              },
+              {
+                "name": "android.permission.FOREGROUND_SERVICE"
+              },
+              {
+                "name": "android.permission.FOREGROUND_SERVICE_SPECIAL_USE"
+              },
+              {
+                "name": "android.permission.POST_NOTIFICATIONS"
+              },
+              {
+                "name": "android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS"
+              },
+              {
+                "name": "android.permission.QUERY_ALL_PACKAGES"
+              },
+              {
+                "name": "com.horseui.horsebox.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+              }
+            ]
+          }
+        },
         "a5cf8b8a46f0f75877ceba7c95a3bef84a509ba4ed1c4836fff6396b2c107db9": {
           "added": 1792623264000,
           "file": {
