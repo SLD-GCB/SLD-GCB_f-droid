@@ -1,0 +1,64 @@
+{
+  "repo": {
+    "timestamp": 1792687206000
+  },
+  "packages": {
+    "com.horseui.horsebox": {
+      "metadata": {
+        "lastUpdated": 1792687174000
+      },
+      "versions": {
+        "7a1a38b70499fb4398ee53743539cfa6a38b4ab8e216799b9034a8f5a02c8db1": {
+          "added": 1792687174000,
+          "file": {
+            "name": "/com.horseui.horsebox_9510.apk",
+            "sha256": "7a1a38b70499fb4398ee53743539cfa6a38b4ab8e216799b9034a8f5a02c8db1",
+            "size": 84111998
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a"
+            ],
+            "versionName": "5.1",
+            "versionCode": 9510,
+            "usesSdk": {
+              "minSdkVersion": 24,
+              "targetSdkVersion": 36
+            },
+            "signer": {
+              "sha256": [
+                "2c051364edd9d895eddbe6f05cf29c9285b150a091d39ec1bd69d13a94993587"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "android.permission.ACCESS_NETWORK_STATE"
+              },
+              {
+                "name": "android.permission.FOREGROUND_SERVICE"
+              },
+              {
+                "name": "android.permission.FOREGROUND_SERVICE_SPECIAL_USE"
+              },
+              {
+                "name": "android.permission.POST_NOTIFICATIONS"
+              },
+              {
+                "name": "android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS"
+              },
+              {
+                "name": "android.permission.QUERY_ALL_PACKAGES"
+              },
+              {
+                "name": "com.horseui.horsebox.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+              }
+            ]
+          }
+        }
+      }
+    }
+  }
+}
