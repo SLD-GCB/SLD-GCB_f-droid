@@ -14,7 +14,7 @@
       }
     },
     "address": "https://SLD-GCB.github.io/SLD-GCB_f-droid/repo",
-    "timestamp": 1792739281000,
+    "timestamp": 1792740207000,
     "categories": {
       "Connectivity": {
         "name": {
@@ -233,7 +233,7 @@
           "Connectivity"
         ],
         "issueTracker": "https://github.com/SLD-GCB/HorseBox/issues",
-        "lastUpdated": 1792739242000,
+        "lastUpdated": 1792740164000,
         "license": "AGPL-3.0-only",
         "sourceCode": "https://github.com/SLD-GCB/HorseBox",
         "webSite": "https://github.com/SLD-GCB/HorseBox",
@@ -251,6 +251,62 @@
         "preferredSigner": "2c051364edd9d895eddbe6f05cf29c9285b150a091d39ec1bd69d13a94993587"
       },
       "versions": {
+        "41fee5bb8d061ae9ff89f21d50b72c17f87ff8d73c877481f50dcd7a7ed5e65f": {
+          "added": 1792740145000,
+          "file": {
+            "name": "/com.horseui.horsebox_9820.apk",
+            "sha256": "41fee5bb8d061ae9ff89f21d50b72c17f87ff8d73c877481f50dcd7a7ed5e65f",
+            "size": 85755103
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a"
+            ],
+            "versionName": "8.2",
+            "versionCode": 9820,
+            "usesSdk": {
+              "minSdkVersion": 24,
+              "targetSdkVersion": 36
+            },
+            "signer": {
+              "sha256": [
+                "2c051364edd9d895eddbe6f05cf29c9285b150a091d39ec1bd69d13a94993587"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "android.permission.ACCESS_NETWORK_STATE"
+              },
+              {
+                "name": "android.permission.FOREGROUND_SERVICE"
+              },
+              {
+                "name": "android.permission.FOREGROUND_SERVICE_SPECIAL_USE"
+              },
+              {
+                "name": "android.permission.POST_NOTIFICATIONS"
+              },
+              {
+                "name": "android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS"
+              },
+              {
+                "name": "android.permission.QUERY_ALL_PACKAGES"
+              },
+              {
+                "name": "android.permission.VIBRATE"
+              },
+              {
+                "name": "android.permission.WRITE_SETTINGS"
+              },
+              {
+                "name": "com.horseui.horsebox.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+              }
+            ]
+          }
+        },
         "3bbf4f646d22d8fadb0e01a49bbeb925bb7e59fb8a98aaf85101f3900c5fd883": {
           "added": 1792739222000,
           "file": {
