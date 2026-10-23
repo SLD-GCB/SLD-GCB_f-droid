@@ -1,0 +1,70 @@
+{
+  "repo": {
+    "timestamp": 1792727608000
+  },
+  "packages": {
+    "com.horseui.horsebox": {
+      "metadata": {
+        "lastUpdated": 1792727578000
+      },
+      "versions": {
+        "13f9013700863bb07a04d12b5a52b994beac61269bcc805a0f8b2c1c8dabc474": {
+          "added": 1792727564000,
+          "file": {
+            "name": "/com.horseui.horsebox_9710.apk",
+            "sha256": "13f9013700863bb07a04d12b5a52b994beac61269bcc805a0f8b2c1c8dabc474",
+            "size": 85689567
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a"
+            ],
+            "versionName": "7.1",
+            "versionCode": 9710,
+            "usesSdk": {
+              "minSdkVersion": 24,
+              "targetSdkVersion": 36
+            },
+            "signer": {
+              "sha256": [
+                "2c051364edd9d895eddbe6f05cf29c9285b150a091d39ec1bd69d13a94993587"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "android.permission.ACCESS_NETWORK_STATE"
+              },
+              {
+                "name": "android.permission.FOREGROUND_SERVICE"
+              },
+              {
+                "name": "android.permission.FOREGROUND_SERVICE_SPECIAL_USE"
+              },
+              {
+                "name": "android.permission.POST_NOTIFICATIONS"
+              },
+              {
+                "name": "android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS"
+              },
+              {
+                "name": "android.permission.QUERY_ALL_PACKAGES"
+              },
+              {
+                "name": "android.permission.VIBRATE"
+              },
+              {
+                "name": "android.permission.WRITE_SETTINGS"
+              },
+              {
+                "name": "com.horseui.horsebox.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+              }
+            ]
+          }
+        }
+      }
+    }
+  }
+}
