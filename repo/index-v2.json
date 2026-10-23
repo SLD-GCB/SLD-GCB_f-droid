@@ -14,7 +14,7 @@
       }
     },
     "address": "https://SLD-GCB.github.io/SLD-GCB_f-droid/repo",
-    "timestamp": 1792724988000,
+    "timestamp": 1792725227000,
     "categories": {
       "Connectivity": {
         "name": {
@@ -233,7 +233,7 @@
           "Connectivity"
         ],
         "issueTracker": "https://github.com/SLD-GCB/HorseBox/issues",
-        "lastUpdated": 1792724943000,
+        "lastUpdated": 1792725181000,
         "license": "AGPL-3.0-only",
         "sourceCode": "https://github.com/SLD-GCB/HorseBox",
         "webSite": "https://github.com/SLD-GCB/HorseBox",
