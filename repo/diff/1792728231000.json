@@ -1,13 +1,69 @@
 {
   "repo": {
-    "timestamp": 1792728943000
+    "timestamp": 1792729643000
   },
   "packages": {
     "com.horseui.horsebox": {
       "metadata": {
-        "lastUpdated": 1792728907000
+        "lastUpdated": 1792729609000
       },
       "versions": {
+        "a2c7a3eef7ab892750364c57c452985910c161c3d5664a9d0bf0946dd61628c6": {
+          "added": 1792729594000,
+          "file": {
+            "name": "/com.horseui.horsebox_9740.apk",
+            "sha256": "a2c7a3eef7ab892750364c57c452985910c161c3d5664a9d0bf0946dd61628c6",
+            "size": 85755107
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a"
+            ],
+            "versionName": "7.4",
+            "versionCode": 9740,
+            "usesSdk": {
+              "minSdkVersion": 24,
+              "targetSdkVersion": 36
+            },
+            "signer": {
+              "sha256": [
+                "2c051364edd9d895eddbe6f05cf29c9285b150a091d39ec1bd69d13a94993587"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "android.permission.ACCESS_NETWORK_STATE"
+              },
+              {
+                "name": "android.permission.FOREGROUND_SERVICE"
+              },
+              {
+                "name": "android.permission.FOREGROUND_SERVICE_SPECIAL_USE"
+              },
+              {
+                "name": "android.permission.POST_NOTIFICATIONS"
+              },
+              {
+                "name": "android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS"
+              },
+              {
+                "name": "android.permission.QUERY_ALL_PACKAGES"
+              },
+              {
+                "name": "android.permission.VIBRATE"
+              },
+              {
+                "name": "android.permission.WRITE_SETTINGS"
+              },
+              {
+                "name": "com.horseui.horsebox.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+              }
+            ]
+          }
+        },
         "5293f35b64b08fd6e073833106d517f43c2e4781e7a74fc058e3c1e2509e4ebd": {
           "added": 1792728890000,
           "file": {
