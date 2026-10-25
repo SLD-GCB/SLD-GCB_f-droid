@@ -12,13 +12,12 @@
     "--clean"
   ],
   "disabled": [],
-  "endTimestamp": 1792769630900,
+  "endTimestamp": 1792904356296,
   "failedBuilds": {},
   "fdroiddata": {
-    "commitId": "779b79b48fcd5d56edc274135c19e615486d4e5c",
+    "commitId": "ae495f3388df4f7884297084d22e795608ea37b4",
     "isDirty": true,
     "modifiedFiles": [
-      "repo/diff/1792736979000.json",
       "repo/diff/1792738429000.json",
       "repo/diff/1792739281000.json",
       "repo/diff/1792740207000.json",
@@ -28,6 +27,7 @@
       "repo/diff/1792745406000.json",
       "repo/diff/1792746688000.json",
       "repo/diff/1792747589000.json",
+      "repo/diff/1792769446000.json",
       "repo/entry.jar",
       "repo/entry.json",
       "repo/index-v1.jar",
@@ -37,12 +37,12 @@
       "repo/index.xml",
       "repo/status/running.json",
       "tmp/apkcache.json",
-      "tmp/repo_1792736979000.json"
+      "tmp/repo_1792738429000.json"
     ],
     "untrackedFiles": [
-      "repo/com.horseui.horsebox_9890.apk",
-      "repo/diff/1792769446000.json",
-      "tmp/repo_1792769628000.json"
+      "repo/com.horseui.horsebox_2090.apk",
+      "repo/diff/1792769628000.json",
+      "tmp/repo_1792904354000.json"
     ]
   },
   "jarsigner": "/usr/local/openjdk-25/bin/jarsigner",
@@ -65,6 +65,6 @@
     "com.horseui.horsebox",
     "com.taowu"
   ],
-  "startTimestamp": 1792769609000,
+  "startTimestamp": 1792904339000,
   "subcommand": "update"
 }
