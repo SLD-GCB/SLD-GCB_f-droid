@@ -1,11 +1,11 @@
 {
   "repo": {
-    "timestamp": 1792904354000
+    "timestamp": 1792905382000
   },
   "packages": {
     "com.horseui.horsebox": {
       "metadata": {
-        "lastUpdated": 1792904308000
+        "lastUpdated": 1792905315000
       },
       "versions": {
         "d845f6d55c3db4cdd9f02ec500a0609ba2424cbc0c3115794284ed871cb5dbb9": {
