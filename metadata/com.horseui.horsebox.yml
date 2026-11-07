@@ -29,4 +29,4 @@ Description: |
   所有敏感信息（订阅令牌、SSH 密码、面板密码）都用 AES-256-GCM 加密存储。
 AutoUpdateMode: None
 UpdateCheckMode: None
-CurrentVersionCode: 2147483647
+CurrentVersionCode: 13000
