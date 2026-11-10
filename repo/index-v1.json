@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1794023324000,
+    "timestamp": 1794298164000,
     "version": 20002,
     "name": "SLD-GCB",
     "icon": "icon.png",
@@ -29,7 +29,7 @@
       "webSite": "https://github.com/SLD-GCB/HorseBox",
       "added": 1792323062000,
       "packageName": "com.horseui.horsebox",
-      "lastUpdated": 1794023271000
+      "lastUpdated": 1794298106000
     },
     {
       "authorEmail": "hdhdkc54748448@gmail.com",
@@ -241,6 +241,65 @@
       }
     ],
     "com.horseui.horsebox": [
+      {
+        "added": 1794298079000,
+        "apkName": "com.horseui.horsebox_26100.apk",
+        "hash": "770fe7a2830eac33202b6549211cb093081c4d610fe9e03f7ae94f0a70bf0fd2",
+        "hashType": "sha256",
+        "minSdkVersion": 24,
+        "nativecode": [
+          "arm64-v8a"
+        ],
+        "packageName": "com.horseui.horsebox",
+        "sig": "e020df532705524d9752034d555a498c",
+        "signer": "2c051364edd9d895eddbe6f05cf29c9285b150a091d39ec1bd69d13a94993587",
+        "size": 41227137,
+        "targetSdkVersion": 36,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE_SPECIAL_USE",
+            null
+          ],
+          [
+            "android.permission.POST_NOTIFICATIONS",
+            null
+          ],
+          [
+            "android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS",
+            null
+          ],
+          [
+            "android.permission.QUERY_ALL_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.VIBRATE",
+            null
+          ],
+          [
+            "android.permission.WRITE_SETTINGS",
+            null
+          ],
+          [
+            "com.horseui.horsebox.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+            null
+          ]
+        ],
+        "versionCode": 26100,
+        "versionName": "10.47"
+      },
       {
         "added": 1794023251000,
         "apkName": "com.horseui.horsebox_13000.apk",
@@ -1540,7 +1599,7 @@
         "versionName": "6.9"
       },
       {
-        "added": 1794023271000,
+        "added": 1794298106000,
         "apkName": "com.horseui.horsebox_9680.apk",
         "hash": "2b47adb11f0fd715dbe7193114261c9cb350327c51c2378651294dee1e5cf605",
         "hashType": "sha256",
@@ -2329,7 +2388,7 @@
         "versionName": "2.0.1"
       },
       {
-        "added": 1794023268000,
+        "added": 1794298102000,
         "apkName": "com.horseui.horsebox_2090.apk",
         "hash": "b4709a704c33e76e545163817aedf7f0b132c53ddb4d2ea4295d17743c2c5ac1",
         "hashType": "sha256",
