@@ -14,7 +14,7 @@
       }
     },
     "address": "https://SLD-GCB.github.io/SLD-GCB_f-droid/repo",
-    "timestamp": 1794298164000,
+    "timestamp": 1794817676000,
     "categories": {
       "Connectivity": {
         "name": {
@@ -233,7 +233,7 @@
           "Connectivity"
         ],
         "issueTracker": "https://github.com/SLD-GCB/HorseBox/issues",
-        "lastUpdated": 1794298106000,
+        "lastUpdated": 1794817621000,
         "license": "AGPL-3.0-only",
         "sourceCode": "https://github.com/SLD-GCB/HorseBox",
         "webSite": "https://github.com/SLD-GCB/HorseBox",
@@ -251,6 +251,74 @@
         "preferredSigner": "2c051364edd9d895eddbe6f05cf29c9285b150a091d39ec1bd69d13a94993587"
       },
       "versions": {
+        "58c2b8687ce0a36dc27d0fe26aafe2933bed6ae0b230f83982a0e22eb29ac034": {
+          "added": 1794817592000,
+          "file": {
+            "name": "/com.horseui.horsebox_43100.apk",
+            "sha256": "58c2b8687ce0a36dc27d0fe26aafe2933bed6ae0b230f83982a0e22eb29ac034",
+            "size": 41405878
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a"
+            ],
+            "versionName": "10.64",
+            "versionCode": 43100,
+            "usesSdk": {
+              "minSdkVersion": 24,
+              "targetSdkVersion": 36
+            },
+            "signer": {
+              "sha256": [
+                "2c051364edd9d895eddbe6f05cf29c9285b150a091d39ec1bd69d13a94993587"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "android.permission.ACCESS_NETWORK_STATE"
+              },
+              {
+                "name": "android.permission.FOREGROUND_SERVICE"
+              },
+              {
+                "name": "android.permission.FOREGROUND_SERVICE_SPECIAL_USE"
+              },
+              {
+                "name": "android.permission.POST_NOTIFICATIONS"
+              },
+              {
+                "name": "android.permission.USE_BIOMETRIC"
+              },
+              {
+                "name": "android.permission.USE_FINGERPRINT"
+              },
+              {
+                "name": "android.permission.RECEIVE_BOOT_COMPLETED"
+              },
+              {
+                "name": "android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS"
+              },
+              {
+                "name": "android.permission.QUERY_ALL_PACKAGES"
+              },
+              {
+                "name": "android.permission.VIBRATE"
+              },
+              {
+                "name": "android.permission.WRITE_SETTINGS"
+              },
+              {
+                "name": "com.horseui.horsebox.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+              }
+            ]
+          },
+          "releaseChannels": [
+            "Beta"
+          ]
+        },
         "770fe7a2830eac33202b6549211cb093081c4d610fe9e03f7ae94f0a70bf0fd2": {
           "added": 1794298079000,
           "file": {

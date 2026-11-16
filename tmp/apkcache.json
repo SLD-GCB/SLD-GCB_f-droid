@@ -1,8 +1,8 @@
 {
   "METADATA_VERSION": 20002,
   "allow_disabled_algorithms": false,
-  "com.horseui.horsebox_26100.apk": {
-    "hash": "770fe7a2830eac33202b6549211cb093081c4d610fe9e03f7ae94f0a70bf0fd2",
+  "com.horseui.horsebox_43100.apk": {
+    "hash": "58c2b8687ce0a36dc27d0fe26aafe2933bed6ae0b230f83982a0e22eb29ac034",
     "hashType": "sha256",
     "uses-permission": [
       [
@@ -23,6 +23,18 @@
       ],
       [
         "android.permission.POST_NOTIFICATIONS",
+        null
+      ],
+      [
+        "android.permission.USE_BIOMETRIC",
+        null
+      ],
+      [
+        "android.permission.USE_FINGERPRINT",
+        null
+      ],
+      [
+        "android.permission.RECEIVE_BOOT_COMPLETED",
         null
       ],
       [
@@ -52,9 +64,9 @@
     "icons": {},
     "antiFeatures": {},
     "packageName": "com.horseui.horsebox",
-    "versionCode": 26100,
+    "versionCode": 43100,
     "name": "HorseBox",
-    "versionName": "10.47",
+    "versionName": "10.64",
     "minSdkVersion": 24,
     "targetSdkVersion": 36,
     "nativecode": [
@@ -62,9 +74,9 @@
     ],
     "sig": "e020df532705524d9752034d555a498c",
     "signer": "2c051364edd9d895eddbe6f05cf29c9285b150a091d39ec1bd69d13a94993587",
-    "size": 41227137,
-    "apkName": "com.horseui.horsebox_26100.apk",
-    "added": 1794298079.12234
+    "size": 41405878,
+    "apkName": "com.horseui.horsebox_43100.apk",
+    "added": 1794817592.249807
   },
   "com.dasinong_46.apk": {
     "hash": "a9773a4c87c6ede7fd8a004e53e0c86347035659165ae7876fb48023d7a1c1d1",
@@ -606,7 +618,7 @@
     "signer": "2c051364edd9d895eddbe6f05cf29c9285b150a091d39ec1bd69d13a94993587",
     "size": 85771487,
     "apkName": "com.horseui.horsebox_2090.apk",
-    "added": 1794298102.908315
+    "added": 1794817616.916663
   },
   "com.horseui.horsebox_2090_e020df5.apk": {
     "hash": "b4709a704c33e76e545163817aedf7f0b132c53ddb4d2ea4295d17743c2c5ac1",
@@ -672,6 +684,71 @@
     "size": 85771487,
     "apkName": "com.horseui.horsebox_2090_e020df5.apk",
     "added": 1792905559.0
+  },
+  "com.horseui.horsebox_26100.apk": {
+    "hash": "770fe7a2830eac33202b6549211cb093081c4d610fe9e03f7ae94f0a70bf0fd2",
+    "hashType": "sha256",
+    "uses-permission": [
+      [
+        "android.permission.INTERNET",
+        null
+      ],
+      [
+        "android.permission.ACCESS_NETWORK_STATE",
+        null
+      ],
+      [
+        "android.permission.FOREGROUND_SERVICE",
+        null
+      ],
+      [
+        "android.permission.FOREGROUND_SERVICE_SPECIAL_USE",
+        null
+      ],
+      [
+        "android.permission.POST_NOTIFICATIONS",
+        null
+      ],
+      [
+        "android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS",
+        null
+      ],
+      [
+        "android.permission.QUERY_ALL_PACKAGES",
+        null
+      ],
+      [
+        "android.permission.VIBRATE",
+        null
+      ],
+      [
+        "android.permission.WRITE_SETTINGS",
+        null
+      ],
+      [
+        "com.horseui.horsebox.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+        null
+      ]
+    ],
+    "uses-permission-sdk-23": [],
+    "features": [],
+    "icons_src": {},
+    "icons": {},
+    "antiFeatures": {},
+    "packageName": "com.horseui.horsebox",
+    "versionCode": 26100,
+    "name": "HorseBox",
+    "versionName": "10.47",
+    "minSdkVersion": 24,
+    "targetSdkVersion": 36,
+    "nativecode": [
+      "arm64-v8a"
+    ],
+    "sig": "e020df532705524d9752034d555a498c",
+    "signer": "2c051364edd9d895eddbe6f05cf29c9285b150a091d39ec1bd69d13a94993587",
+    "size": 41227137,
+    "apkName": "com.horseui.horsebox_26100.apk",
+    "added": 1794298079.0
   },
   "com.horseui.horsebox_5001.apk": {
     "hash": "a8928a67177d90de2102ae5ef9690fb9a4df754fe34f16ee31152c8b01c06a5b",
@@ -1485,7 +1562,7 @@
     "signer": "2c051364edd9d895eddbe6f05cf29c9285b150a091d39ec1bd69d13a94993587",
     "size": 84194797,
     "apkName": "com.horseui.horsebox_9680.apk",
-    "added": 1794298106.899319
+    "added": 1794817621.022641
   },
   "com.horseui.horsebox_9680_e020df5.apk": {
     "hash": "2b47adb11f0fd715dbe7193114261c9cb350327c51c2378651294dee1e5cf605",
